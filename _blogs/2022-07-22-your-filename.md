@@ -1,13 +1,9 @@
 ---
 published: false
 date: '2022-07-22 11:13 -0700'
-title: ''
----
----
-published: false
-date: '2022-07-22 09:32 -0700'
 title: XR 7.7.1 Feature Release
 ---
+
 # IOS-XR 7.7.1 
 
 
